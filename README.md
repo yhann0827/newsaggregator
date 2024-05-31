@@ -1,4 +1,5 @@
 # News Aggregator
+**#Django #Python #RESTfulAPI #PythonAnywhere #BackendDevelopment**
 
 - Develop, implement, and deploy a RESTful web API for a news agency using Django.
 - Host the API on [pythonanywhere.com](https://www.pythonanywhere.com/).
